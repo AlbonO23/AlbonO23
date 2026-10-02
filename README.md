@@ -1,5 +1,7 @@
 
 <div align="center"> 
+<img width="498" height="399" alt="HRq4nTKaUAA3EUZ" src="sorry-i-dont-speak-bottom-alex-albon.gif" />
+
 
 <!--
 **AlbonO23/AlbonO23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
