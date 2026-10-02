@@ -1,4 +1,4 @@
-## Hi there 👋
+<align="center"> 
 
 <!--
 **AlbonO23/AlbonO23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
