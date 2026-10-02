@@ -1,12 +1,13 @@
-
 <div align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stylish&size=30&duration=4000&pause=400&color=3A53A7&center=true&vCenter=true&width=435&lines=But+you+should+know+that;I+died+slow;Running+through+the+halls+of+your+haunted+home;And+the+toughest+part+is+;That+we+both+know;Glib+jocks+quiz+nymph+to+vex+dwarf;What+happen+to+you;Why+you're+out+on+your+own;Merry+Christmas;Please+don't+call" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stylish&size=30&duration=3500&pause=350&color=3A53A7&center=true&vCenter=true&width=435&lines=But+you+should+know+that;I+died+slow;Running+through+the+halls+;Of+your+haunted+home;And+the+toughest+part+is+;That+we+both+know;What+happen+to+you;Why+you're+out+on+your+own;Merry+Christmas;Please+don't+call" alt="Typing SVG" /></a>
   <div align="center"> 
-
-<img width="498" height="399" alt="HRq4nTKaUAA3EUZ" src="sorry-i-dont-speak-bottom-alex-albon.gif" />
+<img width="440" height="374" alt="HRq4nTKaUAA3EUZ" src="albon-alexalbon.gif" />
   <div>
 
-<!--
+<div align="center"> 
+ 
+  
+  <!--
 **AlbonO23/AlbonO23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
