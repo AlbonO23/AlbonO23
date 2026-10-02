@@ -9,12 +9,10 @@
   <div>
 <div align="center"> 
   <div align="center"> 
-<h3> -ˋˏ ༻𖤓༺ ˎˊ- <h3>
-   <div>
- <div align="center"> 
- <h4> ˗ˏˋ ˗ᴄ+ʜ ꜰʀᴇᴇʟʏ ᴜɴʟᴇꜱꜱ ꜰʀɪᴇɴᴅꜱ ᴀʀᴏᴜɴᴅ/ꜱᴛᴀᴛᴇꜱ ᴏᴛʜᴇʀᴡɪꜱᴇ! ˎˊ<h4>
-<br>
-
+<h3> </h3>──────ˋˏ ༻𖤓༺ ˎˊ────── <h3>
+    <div> 
+ <h4> ˗ˏˋ ˗ᴄ+ʜ ꜰʀᴇᴇʟʏ ᴜɴʟᴇꜱꜱ ꜰʀɪᴇɴᴅꜱ ᴀʀᴏᴜɴᴅ/ꜱᴛᴀᴛᴇꜱ ᴏᴛʜᴇʀᴡɪꜱᴇ!˗ ˎˊ˗<h4>
+<h6>"𝙸 𝚍𝚒𝚍𝚗'𝚝 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎 𝚝𝚑𝚊𝚝 𝚐𝚞𝚢. 𝚃𝚑𝚎 𝚘𝚗𝚎 𝚠𝚑𝚘 𝚢𝚘𝚞 𝚏𝚘𝚛𝚐𝚘𝚝 𝚊𝚋𝚘𝚞𝚝.” </h6>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313ul5mqdwdfls3e35cwntp2lfvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
