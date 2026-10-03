@@ -3,8 +3,8 @@
     <br>
   
 <div align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stylish&size=30&duration=3500&pause=350&color=3A53A7&center=true&vCenter=true&width=435&lines=But+you+should+know+that;I+died+slow;Running+through+the+halls+;Of+your+haunted+home;And+the+toughest+part+is+;That+we+both+know;What+happen+to+you;Why+you're+out+on+your+own;Merry+Christmas;Please+don't+call" alt="Typing SVG" /></a>
-  <div align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Stylish&size=30&duration=3500&pause=350&color=0859BD&center=true&vCenter=true&width=435&lines=Oh%2C+golden+boy;You+shined+a+light+on+our+home;And+at+your+best%2C;You+were+magic+;We+were+sold;So+don't+tell+them;What+you+told+me;Don't+even+tell+them;That+you+know+me;I+would+rather+burn+forever" alt="Typing SVG" /></a>
+    <div align="center"> 
 <img width="440" height="374" alt="HRq4nTKaUAA3EUZ" src="albon-alexalbon.gif" />
   <div>
 <div align="center"> 
